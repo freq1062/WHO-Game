@@ -26,3 +26,8 @@ Open inventory: C
 Open stats: C > Click the button in the top left corner of the sidebar
 
 Debug mode: 1
+
+Can you find the hidden trophy?
+
+![](trophy.png?raw=true)
+
