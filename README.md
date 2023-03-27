@@ -1,7 +1,7 @@
 # WHO-Game
 A game I made for my Grade 10 final performance task in P5.js. 
 
-Since P5.js isn't the same as pure JS and HTML I doubt it works there, but sometime in the future I might use REACT.JS to make a playable application. 
+Since P5.js isn't the same as pure JS and HTML I doubt it works there, but sometime in the future I might use REACT.JS to make a playable application. Also, the teacher said that I was not allowed to use classes in this game which is why there's just tons of objects everywhere.
 
 In the program, I learned how to make a box collision system, how to make a character which turns towards your mouse, how to make very simple AIs for the enemies, how to make an inventory system, item system, text array system like in Undertale/Deltarune, and movement. In the future I would want to make a bigger map instead of rooms, with camera movement and I did make a small test for that later on in my p5.js profile, found at https://editor.p5js.org/freq/sketches All the actually finished/alright projects are under collections > decent projects, including this one.
 
